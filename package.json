@@ -1,0 +1,26 @@
+{
+  "name": "tokenvotingupgradeproxy",
+  "version": "1.0.0",
+  "description": "An upgrade proxy that allows token holders to vote on upgrades",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "truffle": "^5.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plgod/TokenVotingUpgradeProxy.git"
+  },
+  "author": "Pierre-Luc Godin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plgod/TokenVotingUpgradeProxy/issues"
+  },
+  "homepage": "https://github.com/plgod/TokenVotingUpgradeProxy#readme"
+}
